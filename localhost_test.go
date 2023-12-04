@@ -1,4 +1,4 @@
-package ipaddr
+package nettools
 
 import (
 	"github.com/stretchr/testify/require"

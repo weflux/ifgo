@@ -1,8 +1,8 @@
-# localhost
+# nettools-go
 
 获取本地 IP 和网卡信息
 
 ```go
-ip, err := ipaddr.IP()
-mac, err := ipaddr.MacAddr()
+ip, err := nettools.IP()
+mac, err := nettools.MacAddr()
 ```

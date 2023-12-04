@@ -1,4 +1,4 @@
-module github.com/weflux/ipaddr-go
+module github.com/weflux/nettools-go
 
 go 1.16
 
