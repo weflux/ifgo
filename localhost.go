@@ -1,4 +1,4 @@
-package localhost
+package ipaddr
 
 import (
 	"errors"

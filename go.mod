@@ -1,4 +1,4 @@
-module github.com/weflux/localhost
+module github.com/weflux/ipaddr-go
 
 go 1.16
 
